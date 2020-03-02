@@ -1,2 +1,2 @@
-# Inheritence
-added images and used the inheritance concept
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
